@@ -33,7 +33,7 @@ Open Thonny from your application launcher. It should look something like this:
 
 <img src="/Assets/Img/thonny-editor.png" width="500">
 
-### 4. Hello World
+### 4. Hello World!
 You can use Thonny to write standard Python code. Type the following in the main window, and then click the Run button (you will be asked to save the file).
 
 `print('Hello World!')`
@@ -41,7 +41,7 @@ You can use Thonny to write standard Python code. Type the following in the main
 ### 5. BOOTSEL
 Find the BOOTSEL button on your Raspberry Pi Pico.
 
-<img src="/Assets/Img/pico-bootsel-1.png" width="500">
+<img src="/Assets/Img/Pico-bootsel-1.png" width="500">
 
 Press the BOOTSEL button and hold it while you connect the other end of the micro USB cable to your computer.
 
