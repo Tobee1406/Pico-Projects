@@ -10,10 +10,12 @@ Raspberry Pi Pico Projects
 - [Setup Pico W](#setup-pico-w)
 
 ## Setup Pico
+[Pico Setup](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/)
 ### 1.
 
 
 ## Setup Pico W
+[Pico W Setup](https://projects.raspberrypi.org/en/projects/get-started-pico-w/1)
 ### 1. Download
 **Download** the latest version of Raspberry Pi Pico W firmware at https://rpf.io/pico-w-firmware.
 
