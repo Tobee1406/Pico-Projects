@@ -6,9 +6,14 @@ Raspberry Pi Pico Projects
 ![](https://img.shields.io/github/license/Tobee1406/Pico-Projects) ![](https://badges.pufler.dev/visits/Tobee1406/Pico-Projects) ![](https://img.shields.io/github/stars/Tobee1406/Pico-Projects)
 
 ## Contents
-- [Setup](#setup)
+- [Setup Pico](#setup-pico)
+- [Setup Pico W](#setup-pico-w)
 
-## Setup
+## Setup Pico
+### 1.
+
+
+## Setup Pico W
 ### 1. Download
 **Download** the latest version of Raspberry Pi Pico W firmware at https://rpf.io/pico-w-firmware.
 
