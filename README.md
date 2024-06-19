@@ -12,7 +12,8 @@ Raspberry Pi Pico Projects
 
 # Raspberry Pi Pico/Pico W
 
-[Documentation](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
+[Pico/ Pico W Documentation](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
+[MicroPython](https://docs.micropython.org/en/latest/)
 
 ## Setup Pico
 [Pico Setup](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/0)
