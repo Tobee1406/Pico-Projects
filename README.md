@@ -19,7 +19,7 @@ Raspberry Pi Pico Projects
 ### 1. Connect Pico
 Plug your micro USB cable into the port on the left-hand side of the board.
 
-<img src="/Assets/Img/pico-top-plug-v2.png" width="500">
+<img src="/Assets/Img/Pico-Top-Plug-v2.png" width="500">
 
 If you need to know the pin numbers for a Raspberry Pi Pico, you can refer to the following diagram.
 
