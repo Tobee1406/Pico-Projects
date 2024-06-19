@@ -8,6 +8,7 @@ Raspberry Pi Pico Projects
 ## Contents
 - [Setup Pico](#setup-pico)
 - [Setup Pico W](#setup-pico-w)
+- [Games](#games)
 
 # Raspberry Pi Pico/Pico W
 
@@ -101,3 +102,6 @@ Look at the text in the bottom right-hand corner of the Thonny editor. It will s
 
 If it does not say ‘MicroPython (Raspberry Pi Pico)’ there, then click on the text and select ‘MicroPython (Raspberry Pi Pico)’ from the options.
 <img src="/Assets/Img/thonny-select-interpreter.png" width="500">
+
+# Games
+[Games](https://picockpit.com/raspberry-pi/gaming-on-the-raspberry-pi-pico/)
