@@ -6,20 +6,21 @@
 
 [Pico Ducky](https://github.com/dbisu/pico-ducky.git)
 
-## Payloads
+# Payloads
 Copy and paste into `payload.dd`
 
-### Credentials
+## Credentials
 
-### Execution
+## Execution
 
-### Exfiltration
+## Exfiltration
 
-### Phishing
+## Phishing
 
-### Prank
-- [Hacker Typer](/BadUSB/Payloads/Hacker_Typer)
+## Prank
+- [Hacker Typer](/Prank/Hacker_Typer)
+- [Rick Roll](/Prank/Rick_Roll)
+- [The_f_bomb](/Prank/The_f_bomb)
+- [Windows Repair](/Prank/Windows_Repair)
 
-- [Rick Roll](/BadUSB/Payloads/Rick_Roll)
-
-### Remote Access
+## Remote Access
