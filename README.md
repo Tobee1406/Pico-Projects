@@ -113,6 +113,7 @@ If it does not say ‘MicroPython (Raspberry Pi Pico)’ there, then click on th
 ## Payloads
 Copy and paste into `payload.dd`
 
+[Hacker Typer](/Payloads/Hacker_Typer.txt)
 [Rick Roll](/Payloads/Rick_Roll.txt)
 
 # Games
