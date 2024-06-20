@@ -8,14 +8,14 @@ Raspberry Pi Pico Projects
 ## Contents
 - [Setup Pico](#setup-pico)
 - [Setup Pico W](#setup-pico-w)
-- [BadUSB](#badusb)
-  - [Payloads](#payloads)
-    - [Credentials](#credentials)
-    - [Execution](#execution)
-    - [Exfiltration](#exfiltration)
-    - [Phishing](#phishing)
-    - [Prank](#prank)
-    - [Remote Access](#remote-access)
+- [BadUSB](/BadUSB)
+  - [Payloads](/BadUSB/Payloads)
+    - [Credentials](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#credentials)
+    - [Execution](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#execution)
+    - [Exfiltration](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#exfiltration)
+    - [Phishing](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#phishing)
+    - [Prank](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#prank)
+    - [Remote Access](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#remote-access)
 - [Games](#games)
 
 # Raspberry Pi Pico/Pico W
