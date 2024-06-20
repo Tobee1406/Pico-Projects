@@ -9,6 +9,13 @@ Raspberry Pi Pico Projects
 - [Setup Pico](#setup-pico)
 - [Setup Pico W](#setup-pico-w)
 - [BadUSB](#badusb)
+  - [Payloads](#payloads)
+    - [Credentials](#credentials)
+    - [Execution](#execution)
+    - [Exfiltration](#exfiltration)
+    - [Phishing](#phishing)
+    - [Prank](#prank)
+    - [Remote Access](#remote-access)
 - [Games](#games)
 
 # Raspberry Pi Pico/Pico W
@@ -113,21 +120,6 @@ Look at the text in the bottom right-hand corner of the Thonny editor. It will s
 If it does not say ‘MicroPython (Raspberry Pi Pico)’ there, then click on the text and select ‘MicroPython (Raspberry Pi Pico)’ from the options.
 
 <img src="/Assets/Img/thonny-select-interpreter.png" width="500">
-
-# BadUSB
-> [!CAUTION]
-> USE AT YOUR OWN RISK!
-
-[Pico BadUSB](https://github.com/kacperbartocha/pico-badusb.git)
-
-[Pico Ducky](https://github.com/dbisu/pico-ducky.git)
-
-## Payloads
-Copy and paste into `payload.dd`
-
-- [Hacker Typer](/BadUSB/Payloads/Hacker_Typer)
-
-- [Rick Roll](/BadUSB/Payloads/Rick_Roll)
 
 # Games
 [Games](https://picockpit.com/raspberry-pi/gaming-on-the-raspberry-pi-pico/)
