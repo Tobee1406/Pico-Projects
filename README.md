@@ -22,7 +22,7 @@ Raspberry Pi Pico Projects
 [DuckyScript](https://docs.hak5.org/hak5-usb-rubber-ducky/duckyscript-tm-quick-reference)
 
 ## Setup Pico
-[Pico Setup](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/0)
+From [Raspberrypi.org](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/0)
 
 ### 1. Connect Pico
 Plug your micro USB cable into the port on the left-hand side of the board.
@@ -79,21 +79,24 @@ Wait for the installation to complete and click **Close**.
 > You don’t need to update the firmware every time you use your Raspberry Pi Pico. Next time, you can just plug it into your computer without pressing the BOOTSEL button.
 
 ## Setup Pico W
-[Pico W Setup](https://projects.raspberrypi.org/en/projects/get-started-pico-w/1)
+From [raspberrypi.org](https://projects.raspberrypi.org/en/projects/get-started-pico-w/1)
 
 ### 1. Download
 **Download** the latest version of Raspberry Pi Pico W firmware at https://rpf.io/pico-w-firmware.
 
 ### 2. Connect Pico W
 **Connect** the small end of your micro USB cable to the Raspberry Pi Pico W.
+
 <img src="/Assets/Img/pico-top-plug.png" width="500">
 
 ### 3. BOOTSEL
 Hold down the **BOOTSEL** button on your Raspberry Pi Pico W.
+
 <img src="/Assets/Img/pico-bootsel.png" width="400">
 
 ### 4.  Connect pc
 **Connect** the other end to your desktop computer, laptop, or Raspberry Pi.
+
 <img src="/Assets/Img/plug-in-pico.png" width="500">
 
 ### 5. File manager
@@ -111,6 +114,9 @@ If it does not say ‘MicroPython (Raspberry Pi Pico)’ there, then click on th
 <img src="/Assets/Img/thonny-select-interpreter.png" width="500">
 
 # BadUSB
+> [!CAUTION]
+> USE AT YOUR OWN RISK!
+
 [Pico BadUSB](https://github.com/kacperbartocha/pico-badusb.git)
 
 [Pico Ducky](https://github.com/dbisu/pico-ducky.git)
