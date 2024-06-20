@@ -20,12 +20,11 @@ Raspberry Pi Pico Projects
 
 # Raspberry Pi Pico/Pico W
 
-[Pico/ Pico W Documentation](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 
-[MicroPython](https://docs.micropython.org/en/latest/)
-
-[CircuitPython](https://docs.circuitpython.org/en/latest/README.html)
-
+## Documentation
+- [Pico/ Pico W Documentation](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html) |
+[MicroPython](https://docs.micropython.org/en/latest/) |
+[CircuitPython](https://docs.circuitpython.org/en/latest/README.html) |
 [DuckyScript](https://docs.hak5.org/hak5-usb-rubber-ducky/duckyscript-tm-quick-reference)
 
 ## Setup Pico
