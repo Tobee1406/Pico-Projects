@@ -17,6 +17,10 @@ Raspberry Pi Pico Projects
 
 [MicroPython](https://docs.micropython.org/en/latest/)
 
+[CircuitPython](https://docs.circuitpython.org/en/latest/README.html)
+
+[DuckyScript](https://docs.hak5.org/hak5-usb-rubber-ducky/duckyscript-tm-quick-reference)
+
 ## Setup Pico
 [Pico Setup](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/0)
 
