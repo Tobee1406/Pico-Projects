@@ -118,9 +118,9 @@ If it does not say ‘MicroPython (Raspberry Pi Pico)’ there, then click on th
 ## Payloads
 Copy and paste into `payload.dd`
 
-- [Hacker Typer](/Payloads/Hacker_Typer.txt)
+- [Hacker Typer](/BadUSB/Payloads/Hacker_Typer)
 
-- [Rick Roll](/Payloads/Rick_Roll.txt)
+- [Rick Roll](/BadUSB/Payloads/Rick_Roll)
 
 # Games
 [Games](https://picockpit.com/raspberry-pi/gaming-on-the-raspberry-pi-pico/)
