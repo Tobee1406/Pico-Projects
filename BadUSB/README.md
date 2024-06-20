@@ -18,9 +18,9 @@ Copy and paste into `payload.dd`
 ## Phishing
 
 ## Prank
-- [Hacker Typer](/Payloads/Prank/Hacker_Typer)
-- [Rick Roll](/Payloads/Prank/Rick_Roll)
-- [The_f_bomb](/Payloads/Prank/The_f_bomb)
-- [Windows Repair](/Payloads/Prank/Windows_Repair)
+- [Hacker Typer](/BadUSB/Payloads/Prank/Hacker_Typer)
+- [Rick Roll](/BadUSB/Payloads/Prank/Rick_Roll)
+- [The_f_bomb](/BadUSB/Payloads/Prank/The_f_bomb)
+- [Windows Repair](/BadUSB/Payloads/Prank/Windows_Repair)
 
 ## Remote Access
