@@ -1,16 +1,16 @@
 # BadUSB
 > [!CAUTION]
-> USE AT YOUR OWN RISK!
+> **USE AT YOUR OWN RISK!** As these can be used **destructively** and for **malicious** intent. The payloads are therefore provided for **educational purposes only**. Please get consent before pranking anybody.
 
 Inspired by:
 
-- [Pico BadUSB](https://github.com/kacperbartocha/pico-badusb.git)
-- [Pico Ducky](https://github.com/dbisu/pico-ducky.git)
+- [Pico BadUSB](https://github.com/kacperbartocha/pico-badusb.git) | [Pico Ducky](https://github.com/dbisu/pico-ducky.git) | [USB Rubberducky-payloads](https://github.com/hak5/usbrubberducky-payloads.git)
 
 # Payloads
-Documentation:
-[DuckyScript](https://docs.hak5.org/hak5-usb-rubber-ducky/duckyscript-tm-quick-reference)
+### Documentation
+[DuckyScript™](https://docs.hak5.org/hak5-usb-rubber-ducky/duckyscript-tm-quick-reference)
 
+### Guide
 Copy and paste into `payload.dd`
 
 ## Credentials
