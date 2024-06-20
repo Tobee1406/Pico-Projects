@@ -111,6 +111,7 @@ Open the Thonny editor. If not downloaded, go to https://thonny.org/.
 Look at the text in the bottom right-hand corner of the Thonny editor. It will show you the version of Python that is being used.
 
 If it does not say ‘MicroPython (Raspberry Pi Pico)’ there, then click on the text and select ‘MicroPython (Raspberry Pi Pico)’ from the options.
+
 <img src="/Assets/Img/thonny-select-interpreter.png" width="500">
 
 # BadUSB
