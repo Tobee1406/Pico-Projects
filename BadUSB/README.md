@@ -2,11 +2,15 @@
 > [!CAUTION]
 > USE AT YOUR OWN RISK!
 
-[Pico BadUSB](https://github.com/kacperbartocha/pico-badusb.git)
+Inspired by:
 
-[Pico Ducky](https://github.com/dbisu/pico-ducky.git)
+- [Pico BadUSB](https://github.com/kacperbartocha/pico-badusb.git)
+- [Pico Ducky](https://github.com/dbisu/pico-ducky.git)
 
 # Payloads
+Documentation:
+[DuckyScript](https://docs.hak5.org/hak5-usb-rubber-ducky/duckyscript-tm-quick-reference)
+
 Copy and paste into `payload.dd`
 
 ## Credentials
