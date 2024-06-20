@@ -9,7 +9,7 @@ Raspberry Pi Pico Projects
 - [Setup Pico](#setup-pico)
 - [Setup Pico W](#setup-pico-w)
 - [BadUSB](/BadUSB)
-  - [Payloads](/BadUSB/Payloads)
+  - [Payloads](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#payloads)
     - [Credentials](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#credentials)
     - [Execution](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#execution)
     - [Exfiltration](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#exfiltration)
