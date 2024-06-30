@@ -15,24 +15,25 @@ Copy and paste into `payload.dd`
 
 ## Credentials
 
-## Execution
+## :skull_and_crossbones: Execution
 - [Change The Password Of The User](/BadUSB/Payloads/Execution/Change_The_Password_Of_The_User)
 - [Change Windows User Name](/BadUSB/Payloads/Execution/Change_Windows_User_Name)
 - [Stop A Single Process In Windows](/BadUSB/Payloads/Execution/Stop_A_Single_Process_In_Windows)
-## Exfiltration
+
+## :envelope_with_arrow: Exfiltration
 - [Discord Windows Wifi IP-Info](/BadUSB/Payloads/Exfiltration/Discord_Windows_Wifi_IP-Info)
 - [Ducky Crab](/BadUSB/Payloads/Exfiltration/Ducky_Crab)
 - [Spotify-Spy](/BadUSB/Payloads/Exfiltration/Spotify-Spy)
 
-## Phishing
+## :fishing_pole_and_fish: Phishing
 
-## Prank
+## :black_joker: Prank
 - [Hacker Typer](/BadUSB/Payloads/Prank/Hacker_Typer)
 - [Rick Roll](/BadUSB/Payloads/Prank/Rick_Roll)
 - [The_f_bomb](/BadUSB/Payloads/Prank/The_f_bomb)
 - [Windows Repair](/BadUSB/Payloads/Prank/Windows_Repair)
 
-## Remote Access
+## :calling: Remote Access
 
 
 ## Links
