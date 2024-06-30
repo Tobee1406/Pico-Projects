@@ -11,11 +11,11 @@ Raspberry Pi Pico Projects
 - [BadUSB](/BadUSB)
   - [Payloads](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#payloads)
     - [Credentials](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#credentials)
-    - [Execution](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#execution)
-    - [Exfiltration](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#exfiltration)
-    - [Phishing](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#phishing)
-    - [Prank](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#prank)
-    - [Remote Access](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#remote-access)
+    - [:skull_and_crossbones: Execution](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#execution)
+    - [:envelope_with_arrow: Exfiltration](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#exfiltration)
+    - [:fishing_pole_and_fish: Phishing](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#phishing)
+    - [:black_joker: Prank](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#prank)
+    - [:calling: Remote Access](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#remote-access)
 - [Games](#games)
 
 # Raspberry Pi Pico/Pico W
