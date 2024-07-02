@@ -16,7 +16,7 @@ Raspberry Pi Pico Projects
     - [:fishing_pole_and_fish: Phishing](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#phishing)
     - [:black_joker: Prank](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#prank)
     - [:calling: Remote Access](https://github.com/Tobee1406/Pico-Projects/tree/main/BadUSB#remote-access)
-- [Games](#games)
+- 🎮 [Games](#-games)
 
 # Raspberry Pi Pico/Pico W
 
@@ -120,7 +120,7 @@ If it does not say ‘MicroPython (Raspberry Pi Pico)’ there, then click on th
 
 <img src="/Assets/Img/thonny-select-interpreter.png" width="500">
 
-# Games
+# 🎮 Games
 [Games](https://picockpit.com/raspberry-pi/gaming-on-the-raspberry-pi-pico/)
 
 [MEGA games compilation](https://www.tinyjoypad.com/esp8285#h.p_gDWNNcyeAT73)
